@@ -1,4 +1,4 @@
-# ProductList (with objectiv C view)
+# ProductList (with objC view)
 
 Typical master detail SAMPLE application written in Swift to test Product list API.
 This SAMPLE application is written in Swift using MVVM. 
